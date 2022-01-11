@@ -1,7 +1,5 @@
 <p align='center'>
-  
-![olist](https://user-images.githubusercontent.com/91806138/149023176-b0330bdd-146d-4d0d-b58e-aba7d575698c.jpg)
-
+<img src='https://user-images.githubusercontent.com/91806138/149023176-b0330bdd-146d-4d0d-b58e-aba7d575698c.jpg' width=300 />
 </p>
 
 # olist_sales
